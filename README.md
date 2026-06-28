@@ -92,7 +92,7 @@ Interactive filtering
 
 📈 Dashboard Preview
 The dashboard includes:
-
+![Swiggy Dashboard](dashboard-screenshot.png)
 ✅ 4 KPI Cards
 ✅ Top 5 Cities Bar Chart (with City Slicer)
 ✅ Price Bucket Donut Chart
